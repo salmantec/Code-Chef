@@ -1,2 +1,2 @@
 # Code-Chef
-solve Code Chef problems
+solved Code Chef problems
